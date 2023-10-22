@@ -44,7 +44,7 @@ com.shaft.listeners.TestNGListener
 ![1](https://github.com/ashrafed/Demoblaze-API/assets/21038151/56b185a2-706d-4d06-8ff7-7000b9864d73)
 
 -----
-#Allure Report screenshots 1:
+#Allure Report screenshots 2:
 ![2](https://github.com/ashrafed/Demoblaze-API/assets/21038151/861592ca-5300-4c42-b920-3181dde7c58f)
 
 
